@@ -20,3 +20,5 @@ All settings can be adjusted in `shared/config.lua`.
 - qbx_core
 - ox_lib (for model requests)
 - ox_inventory (for item handling)
+
+Preview: https://streamable.com/9xkbu6
