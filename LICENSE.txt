@@ -1,0 +1,32 @@
+MIT License
+Copyright (c) 2025 BK Union Scripts
+
+Permission is hereby irrevocably granted, free of charge, to any person or
+entity obtaining a copy of this software, including any accompanying
+documentation files (hereinafter referred to as the “Software”), to use,
+execute, study, modify, adapt, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, including its use within the FiveM
+multiplayer framework and related server environments, subject to the
+conditions set forth below.
+
+This permission applies to both personal and commercial FiveM servers,
+whether public or private, provided that the Software is not falsely claimed
+as original work by parties other than the copyright holder.
+
+The above copyright notice and this permission notice shall be included,
+unaltered, in all copies or substantial portions of the Software, including
+but not limited to redistributed resources, modified builds, or derivative
+works intended for use on FiveM servers.
+
+The Software is provided “AS IS”, without warranty of any kind, whether
+express or implied, including but not limited to warranties of
+merchantability, fitness for a particular purpose, compatibility with future
+FiveM updates, server stability, or non-infringement.
+
+Under no circumstances shall the copyright holder(s) or author(s) be held
+liable for any claim, damage, loss of data, server instability, financial
+loss, or other liability, whether in an action of contract, tort, or
+otherwise, arising from, out of, or in connection with the Software, its use,
+its modification, or its deployment on any FiveM server or related platform.
+
+Use of this Software is entirely at the user’s own risk.
