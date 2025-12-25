@@ -1,4 +1,4 @@
-ocal activeBottles = {}
+local activeBottles = {}
 
 local function isValidItem(item)
     return item ~= nil and Config.Items[item] ~= nil
@@ -56,3 +56,4 @@ RegisterNetEvent('bk_bottlespin:server:pickupBottle', function(netId)
         exports.qbx_core:Notify(src, Config.Locales['bottle_picked_up'], 'success')
     end
 end)
+
